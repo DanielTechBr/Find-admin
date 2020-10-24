@@ -13,7 +13,7 @@ cores = ["\033[1;31m", "\033[1;32m", "\033[1;33m", "\033[1;34m", "\033[1;35m", "
 
 def banner():
     try:
-        msg = "\t\t[ \033[1;31mFHC \033[1;37m-\033[1;31m FR13NDs Hackers Club \033[m ]\n"
+        msg = "\t\t[ \033[1;31mFHC \033[1;37m-\033[1;31m FR13NDs Programmers Club \033[m ]\n"
         for i in msg:
             sys.stdout.write(i)
             sys.stdout.flush()
@@ -28,10 +28,10 @@ def banner():
 
     dados = """
     \033[1;33m==========================[ \033[1;36mDADOS\033[m\033[1;33m ]=============================
-    | \033[1;31mAutor\033[1;37m:\033[m \033[31mHagbard Celine\033[1;33m                                        |
-    | \033[1;32mGrupo\033[1;37m:\033[m \033[32mFHC - FR13NDs Hackers Club\033[1;33m                                   |
-    | \033[1;34mFacebook\033[1;37m:\033[m \033[34mhttps://www.facebook.com/miraldino.paulodoria.3\033[1;33m    |
-    | \033[1;35mPage FB\033[1;37m:\033[m \033[35mhttps://www.facebook.com/termuxoficial\033[1;33m              |
+    | \033[1;31mAutor\033[1;37m:\033[m \033[31mHagbard Celine and Dn\033[1;33m                                        |
+    | \033[1;32mGrupo\033[1;37m:\033[m \033[32mFHC - FR13NDs Programmers Club\033[1;33m                                   |
+
+
     \033[1;33m================================================================\033[m\033[31m
     """
     logo = """     _____ _           _              _       _           _       
